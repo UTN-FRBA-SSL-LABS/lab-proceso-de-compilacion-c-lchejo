@@ -115,7 +115,7 @@
     {
       "name": "R3. Respuesta: NOMBRE_MACRO_VERSION=VERSION",
       "setup": "",
-      "run": "grep -qE '^NOMBRE_MACRO_VERSION=VERSION$' README.md",
+      "run": "grep -qE '^NOMBRE_MACRO_VERSION=VERSION$' README.md", 
       "input": "", "output": "", "comparison": "included",
       "timeout": 10, "points": 4
     },
