@@ -122,7 +122,7 @@
     {
       "name": "R4. Respuesta: COMENTARIOS_EN_I=NO",
       "setup": "",
-      "run": "grep -qiE '^COMENTARIOS_EN_I=NO$' README.md",
+      "run": "grep -qiE '^COMENTARIOS_EN_I=NO$' README.md", 
       "input": "", "output": "", "comparison": "included",
       "timeout": 10, "points": 4
     },
